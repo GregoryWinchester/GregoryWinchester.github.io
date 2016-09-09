@@ -1,1 +1,7 @@
-main.scss
+$font-stack: Helvetica, sans-serif;
+
+ul {
+	margin: 10;
+	padding: 10;
+	font: font-stack;
+}
