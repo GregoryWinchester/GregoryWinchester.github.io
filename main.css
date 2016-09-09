@@ -1,6 +1,7 @@
-ul {
+ul li {
   margin: 10;
   padding: 10;
-  font: font-stack; }
+  font: font-stack;
+  color: blue; }
 
 /*# sourceMappingURL=main.css.map */
